@@ -1,0 +1,2 @@
+[console_scripts]
+ContamConverter = contamconverter.cli:main

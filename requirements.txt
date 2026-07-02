@@ -1,0 +1,2 @@
+# This project uses only the Python standard library at runtime.
+# Install locally as a CLI tool with: pip install .

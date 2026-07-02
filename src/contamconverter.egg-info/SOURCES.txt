@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/contamconverter/__init__.py
+src/contamconverter/__main__.py
+src/contamconverter/cli.py
+src/contamconverter.egg-info/PKG-INFO
+src/contamconverter.egg-info/SOURCES.txt
+src/contamconverter.egg-info/dependency_links.txt
+src/contamconverter.egg-info/entry_points.txt
+src/contamconverter.egg-info/top_level.txt
+src/contamconverter/files/ContamFMU.so
+src/contamconverter/files/contamx3.exe
