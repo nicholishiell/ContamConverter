@@ -5,7 +5,9 @@ Convert a CONTAM FMU by unpacking it, injecting Linux runtime files, and repacki
 ## Install
 
 ```bash
-pip install .
+sudo apt install pipx
+pipx install .
+pipx ensurepath
 ```
 
 ## Usage
